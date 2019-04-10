@@ -36,12 +36,12 @@
   padding-bottom: 80px;
   border-radius: 20px;
   box-shadow: 10px -7px 10px #282c34;
-  margin-top: -10%;
  background-color: white;
   color: white;
   max-width: 40%;
   text-align: center;
   position: relative;
+  min-width: 266px;
 }
 #quote-text{
   font-size: 30px;
